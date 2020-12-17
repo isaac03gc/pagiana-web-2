@@ -11,7 +11,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: rgb(177, 230, 240);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -940,7 +940,7 @@
 		}
 
 	#header {
-		background-color: #383b43;
+		background-color: #4d023a;
 		color: #ffffff;
 		cursor: default;
 		font-size: 1.1em;
@@ -1116,7 +1116,7 @@
 
 		.wrapper.style3 {
 			background-color: #3cadd4;
-			color: #ffffff;
+			color: #005212;
 		}
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 p {
@@ -1135,7 +1135,7 @@
 /* Footer */
 
 	#footer {
-		background: #383b43;
+		background: #4d023a;
 		padding: 6em 0em 4em;
 	}
 
